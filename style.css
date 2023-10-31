@@ -10,7 +10,7 @@ body {
 	min-height: 100vh;
 	display: grid;
 	grid-template-rows: auto 1fr auto;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Inter', sans-serif;
 }
 
 header, footer {
@@ -177,7 +177,7 @@ a {
 }
 
 .title {
-	font-weight: 300;
+	font-weight: 400;
 	margin-bottom: 1rem;
 }
 
