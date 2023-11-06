@@ -69,6 +69,10 @@ details {
 	border-radius: 1rem;
 }
 
+details:hover {
+	box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+}
+
 details p, details ul {
 	margin-top: 1rem;
 }
