@@ -88,9 +88,17 @@ summary h2 {
 	}
 
 	header nav {
+		max-width: 100vw;
 		flex-direction: column;
 		gap: 2rem;
 		padding: 2rem 0;
+		flex-wrap: wrap;
+	}
+
+	header nav ul {
+		flex-direction: column;
+		align-items: center;
+		gap: 1.5rem;
 	}
 }
 
