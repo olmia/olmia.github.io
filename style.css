@@ -120,6 +120,10 @@ a {
 	display: inline-block;
 }
 
+.highlight {
+	color: #e67a75;
+}
+
 .waves {
 	position: relative;
 	width: 100%;
