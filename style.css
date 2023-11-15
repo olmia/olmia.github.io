@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+html {
+	font-size: 16px;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -456,4 +460,12 @@ footer > nav > a:hover {
 	.logotype-gallery {
 		flex-direction: column;
 	}
+}
+
+@media (min-width: 1440px) {
+
+	html {
+		font-size: 18px;
+	}
+
 }
