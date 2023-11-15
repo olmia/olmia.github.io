@@ -151,6 +151,7 @@ a {
 
 .highlight {
 	color: #e67a75;
+	white-space: nowrap;
 }
 
 .waves {
@@ -375,6 +376,11 @@ footer > nav ul {
 	flex-direction: column;
 	gap: 1rem;
 	list-style-type: none;
+}
+
+footer ul > li {
+	display: flex;
+	gap: 1rem;
 }
 
 footer > nav > a:hover {
