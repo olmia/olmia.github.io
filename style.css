@@ -475,6 +475,10 @@ footer > nav > a:hover {
 	.logotype-gallery {
 		flex-direction: column;
 	}
+
+	.columns {
+		grid-template-columns: 1fr;
+	}
 }
 
 @media (min-width: 1440px) {
