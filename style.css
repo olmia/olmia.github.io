@@ -512,12 +512,12 @@ footer > nav > a:hover {
 		margin-bottom: 1.5rem;
 	}
 
-	.logotype-gallery {
-		flex-direction: column;
-	}
-
 	.testimonial > li {
 		max-width: 50rem;
+	}
+
+	.alt {
+		background-color: #ffffff;
 	}
 }
 
