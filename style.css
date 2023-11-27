@@ -498,12 +498,6 @@ footer > nav > a:hover {
 		padding: 1rem;
 	}
 
-	.staff-list {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		justify-items: center;
-		gap: 1rem;
-	}
 
 	.staff-list > li {
 		display: flex;
@@ -547,6 +541,13 @@ footer > nav > a:hover {
 
 	.columns > * {
 		width: 50%;
+	}
+
+		.staff-list {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		justify-items: center;
+		gap: 1rem;
 	}
 
 }
